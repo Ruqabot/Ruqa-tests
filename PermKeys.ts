@@ -31,3 +31,7 @@ const permKeys = (key: string) => {
 };
 
 export default permKeys;
+
+/**
+ * Test file
+ */
